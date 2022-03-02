@@ -1,0 +1,17 @@
+         body{
+            background-color: #727479;
+        }
+        p{
+            font-size: larger;
+        }
+
+        .titulosemestre{
+            background-color: rgb(17, 119, 207);
+            font-family: 'Courier New', Courier, monospace;
+            font-size: large;
+        }
+        .historia{
+            background-color: #fdcae1;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            font-size: large;
+        }
