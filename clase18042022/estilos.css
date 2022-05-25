@@ -1,0 +1,31 @@
+.div1{
+    background-color: aqua;
+    border: gray 5px dashed;
+    margin-bottom: 10px;
+    padding: 15px;
+}
+
+.div2{
+    background-color: blueviolet;
+    border: green 5px ridge;
+    margin-bottom: 20px;
+}
+
+.div3{
+    background-color: chocolate;
+    border: red 5px dotted;
+    margin-bottom: 30px;
+}
+
+.div4{
+    background-color: teal;
+    border: black 5px solid;
+    margin-bottom: 40px;
+    }
+
+.parrafo{
+    background-color: chartreuse;
+    border: black 5px solid;
+    margin-top: 30px;
+    padding: 50px;
+}
